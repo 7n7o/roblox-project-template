@@ -1,8 +1,7 @@
 # Build artifacts
 build/
 generated/
-Packages/
 
 # Wally
-wally
-./wally.lock
+wally.lock
+Packages/
