@@ -1,0 +1,12 @@
+{
+  "name": "Project",
+  "tree": {
+    "$className": "Folder",
+    "Packages": {
+      "$path": "Packages"
+    },
+    "Library": {
+      "$path": "generated/library"
+    }
+  }
+}

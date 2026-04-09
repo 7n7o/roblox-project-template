@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+generated/
+Packages/
+
+# Wally
+wally
+./wally.lock
